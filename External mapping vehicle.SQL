@@ -1,4 +1,3 @@
--- Last modification date: 2024-07-03 14:32:47.955
 -- tables
 -- Table: Mapping_van_Data
 CREATE TABLE Mapping_van_Data (
