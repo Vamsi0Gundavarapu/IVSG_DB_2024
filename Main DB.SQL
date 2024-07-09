@@ -1,4 +1,3 @@
--- Last modification date: 2024-07-08 13:12:05.028
 -- tables
 -- Table: GIS
 CREATE TABLE GIS (
